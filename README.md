@@ -4,7 +4,7 @@
 
 Side projet level 的人事庶務處理小工具
 
-Our schedule is with repect to [System analystic and design](http://web.nchu.edu.tw/~jlu/classes/sa.shtml) basic life cycle:
+Our schedule is with repect to [System analystic and design][1] basic life cycle:
 
 1. 初步調查
 
@@ -38,3 +38,11 @@ Our schedule is with repect to [System analystic and design](http://web.nchu.edu
 ## Author
 
 [Audrey Hung](), [Shem Yu](https://github.com/ShemYu)
+
+## Reference
+
+- [系統分析與設計][1]
+     
+     [1]: http://web.nchu.edu.tw/~jlu/classes/sa.shtml
+
+- 
